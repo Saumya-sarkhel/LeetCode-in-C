@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "Q1_Two-Sum.C": "cpp",
+        "Q2_Palindrome-number.C": "cpp",
+        "Q9_Palindrome-number.C": "cpp",
+        "Q13_Roman-To-Integer.C": "cpp",
+        "Q88_Merge-Sorted-Array.C": "cpp"
+    }
+}
