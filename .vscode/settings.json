@@ -4,6 +4,10 @@
         "Q2_Palindrome-number.C": "cpp",
         "Q9_Palindrome-number.C": "cpp",
         "Q13_Roman-To-Integer.C": "cpp",
-        "Q88_Merge-Sorted-Array.C": "cpp"
+        "Q88_Merge-Sorted-Array.C": "cpp",
+        "Q83_Remove-Duplicates-from-Sorted-List.C": "cpp",
+        "Temp.C": "cpp",
+        "Q203_Remove-Linked-List-Elements.C": "cpp",
+        "Q28_Find-the-Index-of-the-First-Occurrence-in-a-String.C": "cpp"
     }
 }
