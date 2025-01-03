@@ -8,6 +8,8 @@
         "Q83_Remove-Duplicates-from-Sorted-List.C": "cpp",
         "Temp.C": "cpp",
         "Q203_Remove-Linked-List-Elements.C": "cpp",
-        "Q28_Find-the-Index-of-the-First-Occurrence-in-a-String.C": "cpp"
+        "Q28_Find-the-Index-of-the-First-Occurrence-in-a-String.C": "cpp",
+        "Q136_Single-Number.C": "cpp",
+        "Menu_Driven_LinkedList.C": "cpp"
     }
 }
