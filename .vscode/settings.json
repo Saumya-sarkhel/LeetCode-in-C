@@ -10,6 +10,7 @@
         "Q203_Remove-Linked-List-Elements.C": "cpp",
         "Q28_Find-the-Index-of-the-First-Occurrence-in-a-String.C": "cpp",
         "Q136_Single-Number.C": "cpp",
-        "Menu_Driven_LinkedList.C": "cpp"
+        "Menu_Driven_LinkedList.C": "cpp",
+        "Q35_Search-Insert-Position.C": "cpp"
     }
 }
