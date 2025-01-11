@@ -11,6 +11,7 @@
         "Q28_Find-the-Index-of-the-First-Occurrence-in-a-String.C": "cpp",
         "Q136_Single-Number.C": "cpp",
         "Menu_Driven_LinkedList.C": "cpp",
-        "Q35_Search-Insert-Position.C": "cpp"
+        "Q35_Search-Insert-Position.C": "cpp",
+        "Q231_Power_of_Two.C": "cpp"
     }
 }
